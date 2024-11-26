@@ -1,6 +1,8 @@
 Olá! Criei este software para excluir e-mails inúteis.
 
+Caso o seu código de algum erro ou bug na hora de apagar os e-mails siga a OBSERVAÇÃO abaixo:
 
+OBS => Clicar na engrenagem de configuração dentro do Gmail / Mostrar todas as configurações / Encaminhamento e POP/IMAP / Verificar o acesso do IMAP
 
 - Primeiro, criei uma função para decodificar o assunto dos e-mails, garantindo que mesmo assuntos codificados sejam legíveis. Também tratei possíveis erros de decodificação.
 
