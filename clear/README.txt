@@ -27,11 +27,3 @@ OBS => Clicar na engrenagem de configuração dentro do Gmail / Mostrar todas as
 
 - Por último, finalizei apagando definitivamente os e-mails marcados e encerrei a conexão com o servidor.  
 
-  _________    _________  _
- |___   ___|  |___   ___||_|
-     | | _____    | |   _______
-  __ | ||  _  |   | |  |   ____|
- | |_| || |_| |   | |  |  |____
- |     ||  _  |   | |  |_____  |
- |_____||_| |_|   |_|   _____  |
-_______________________|_______|
